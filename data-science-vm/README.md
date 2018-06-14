@@ -1,5 +1,5 @@
-# data-science - CLI
-Azure CLI/bash scripts related to data science
+# data-science - VM
+Scripts related to the Azure Data Science VM
 
 _[create_ds_vm.sh](./create-ds-vm.sh)_
 
