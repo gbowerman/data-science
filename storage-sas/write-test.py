@@ -1,4 +1,4 @@
-'''write-test.py - test program to write a blob file using a SAS URI'''
+'''write-test.py - test program to write an Azure block blob using a SAS URI'''
 import argparse
 from urllib import request, parse
 import sys
